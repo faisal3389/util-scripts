@@ -1,0 +1,16 @@
+{
+  "name": "mailer-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "]",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^34.0.0",
+    "js-base64": "^2.4.9",
+    "nodemailer": "^4.6.8"
+  }
+}
