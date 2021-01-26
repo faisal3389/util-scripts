@@ -1,0 +1,23 @@
+{
+  "name": "script-generator",
+  "version": "1.0.0",
+  "description": "Node js script generator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:faisal3389/util-scripts.git"
+  },
+  "keywords": [
+    "script",
+    "nodejs",
+    "auto"
+  ],
+  "author": "faisal",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
