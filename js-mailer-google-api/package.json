@@ -9,7 +9,7 @@
   "author": "faisal ali",
   "license": "ISC",
   "dependencies": {
-    "googleapis": "^27.0.0",
+    "googleapis": "^59.0.0",
     "js-base64": "^2.4.9"
   }
 }
