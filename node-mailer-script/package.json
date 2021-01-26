@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "googleapis": "^34.0.0",
+    "googleapis": "^59.0.0",
     "js-base64": "^2.4.9",
     "nodemailer": "^4.6.8"
   }
